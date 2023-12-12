@@ -17,9 +17,10 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 - Bachelor of Science in Computer Science, University of the People.
 
 🤝 **Connect with Me:**
-[![LinkedIn](https://www.linkedin.com/in/sharon-olaitan-3b357223a/)
+[![LinkedIn](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sharon-olaitan-3b357223a/)](https://www.linkedin.com/in/sharon-olaitan-3b357223a/)
 [![Twitter](https://img.shields.io/badge/-YourHandle-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/soul_sharon)
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&link=https://yourportfolio.com)]((https://sharon-portfolio.vercel.app/]))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&link=https://sharon-portfolio.vercel.app/)](https://sharon-portfolio.vercel.app/)
+
 
 📊 **GitHub Stats:**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonS&show_icons=true&count_private=true&hide=contribs)
@@ -36,6 +37,8 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 - 💬 [Your Personal Website or Blog]
 
 🎉 Thanks for visiting! Let's create something awesome together! 🚀
+
+![Person Pressing Laptop](https://example.com/path/to/animated_gif.gif)
 
 
 <!--
