@@ -6,13 +6,14 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 - 💼 I'm currently working at SolveX as a Front-end developer.
 - 🌱 I’m currently learning Next.js to level up my skills.
 - 🔭 I'm passionate about User Interfaces and User Experience, and I'm currently working on E-Xync, an online store.
-- 💬 Let's chat about Software Development and explore new possibilities.
+- 💬 Let's talk about software architecture, clean code, and building scalable applications.
 
 ✨ **Tech Stack:**
-- **Languages:** React||Tailwind CSS||Javascript||Python||HTML||CSS
-- **Frameworks:** React.js
-- **Tools:** Virtual Studio Code||Pycharm||Anaconda
+- **Languages:** JavaScript (Node.js, React), Python
+- **Frameworks:** Django
+- **Tools:**  Git, VSCode, Docker
 
+ 
 🎓 **Education:**
 - Bachelor of Science in Computer Science, University of the People.
 
@@ -24,12 +25,14 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 
 📊 **GitHub Stats:**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&show_icons=true&count_private=true&hide=contribs)
+![Your Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=dark&hide_border=true&background=000000&stroke=539BF5)
+
 
 🚀 **Projects:**
 - [Project 1](https://www.urxpace.online): An anonymous website that allows individual send messages, media and exchange words anonymously. Each individual's information is secure and anonymous.
 - [Project 2](https://sharonsoul.github.io/E-commerce/): An e-commerce website that features basically all an e-commerce website should have.
 🎨 **Fun Fact:**
-- I love Video games, travelling and writing codes!
+- I love Video games, travelling and writing codes! - I enjoy exploring the intersection of technology and creativity. In my free time, you might find me experimenting with generative art.
 
 💌 **Let's Collaborate:**
 - 📧 Email: [olaitansharom1@gmail.com]
