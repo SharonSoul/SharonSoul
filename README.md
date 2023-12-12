@@ -17,13 +17,13 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 - Bachelor of Science in Computer Science, University of the People.
 
 🤝 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sharon-olaitan-3b357223a/)](https://www.linkedin.com/in/sharon-olaitan-3b357223a/)
-[![Twitter](https://img.shields.io/badge/-YourHandle-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/soul_sharon)
+[![LinkedIn](https://img.shields.io/badge/-Sharon-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sharon-olaitan-3b357223a/)](https://www.linkedin.com/in/sharon-olaitan-3b357223a/)
+[![Twitter](https://img.shields.io/badge/-Soul_Sharon-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/soul_sharon)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&link=https://sharon-portfolio.vercel.app/)](https://sharon-portfolio.vercel.app/)
 
 
 📊 **GitHub Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonS&show_icons=true&count_private=true&hide=contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&show_icons=true&count_private=true&hide=contribs)
 
 🚀 **Projects:**
 - [Project 1](https://www.urxpace.online): An anonymous website that allows individual send messages, media and exchange words anonymously. Each individual's information is secure and anonymous.
