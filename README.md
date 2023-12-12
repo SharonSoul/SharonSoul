@@ -29,8 +29,8 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 
 
 🚀 **Projects:**
-- [Project 1](https://www.urxpace.online): An anonymous website that allows individual send messages, media and exchange words anonymously. Each individual's information is secure and anonymous.
-- [Project 2](https://sharonsoul.github.io/E-commerce/): An e-commerce website that features basically all an e-commerce website should have.
+- [UrXpace](https://www.urxpace.online): An anonymous website that allows individual send messages, media and exchange words anonymously. Each individual's information is secure and anonymous.
+- [ShopFlex](https://sharonsoul.github.io/E-commerce/): An e-commerce website that features basically all an e-commerce website should have.
 🎨 **Fun Fact:**
 - I love Video games, travelling and writing codes! - I enjoy exploring the intersection of technology and creativity. In my free time, you might find me experimenting with generative art.
 
