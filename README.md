@@ -26,15 +26,13 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonS&show_icons=true&count_private=true&hide=contribs)
 
 🚀 **Projects:**
-- [Project 1](https://github.com/yourusername/project1): Description of the project.
-- [Project 2](https://github.com/yourusername/project2): Description of the project.
-
+- [Project 1](https://www.urxpace.online): An anonymous website that allows individual send messages, media and exchange words anonymously. Each individual's information is secure and anonymous.
+- [Project 2](https://sharonsoul.github.io/E-commerce/): An e-commerce website that features basically all an e-commerce website should have.
 🎨 **Fun Fact:**
-- I love [Something Fun or Unique About You]!
+- I love Video games, travelling and writing codes!
 
 💌 **Let's Collaborate:**
-- 📧 Email: [Your Email Address]
-- 💬 [Your Personal Website or Blog]
+- 📧 Email: [olaitansharom1@gmail.com]
 
 🎉 Thanks for visiting! Let's create something awesome together! 🚀
 
