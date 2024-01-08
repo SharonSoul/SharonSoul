@@ -25,6 +25,7 @@ I'm a passionate developer based in Nigeria, with a love for creating meaningful
 
 📊 **GitHub Stats:**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&show_icons=true&count_private=true&hide=contribs)
+
 ![Your Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=dark&hide_border=true&background=000000&stroke=539BF5)
 
 
