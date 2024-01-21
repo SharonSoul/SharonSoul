@@ -1,59 +1,48 @@
-### 👋 Hello, I'm Sharon!
+# 👋 Hello, I'm Sharon - Passionate Developer from Nigeria!
 
-I'm a passionate developer based in Nigeria, with a love for creating meaningful software solutions. My journey involves working with cutting-edge technologies and contributing to open-source projects.
+Welcome to my GitHub profile. I'm dedicated to creating meaningful software solutions and exploring cutting-edge technologies. Currently working at SolveX as a Front-end developer, I'm also diving into the world of Next.js to elevate my skills.
 
-🚀 **Quick Overview:**
-- 💼 I'm currently working at SolveX as a Front-end developer.
-- 🌱 I’m currently learning Next.js to level up my skills.
-- 🔭 I'm passionate about User Interfaces and User Experience, and I'm currently working on E-Xync, an online store.
-- 💬 Let's talk about software architecture, clean code, and building scalable applications.
+## 🚀 Quick Overview:
 
-✨ **Tech Stack:**
+- 💼 Working at SolveX as a Front-end developer.
+- 🌱 Learning Next.js to enhance my skill set.
+- 🔭 Building E-Xync, an online store with a focus on User Interfaces and User Experience.
+- 💬 Let's discuss software architecture, clean code, and building scalable applications.
+
+## ✨ Tech Stack:
+
 - **Languages:** JavaScript (Node.js, React), Python
 - **Frameworks:** Django
-- **Tools:**  Git, VSCode, Docker
+- **Tools:** Git, VSCode, Docker
 
- 
-🎓 **Education:**
+## 🎓 Education:
+
 - Bachelor of Science in Computer Science, University of the People.
 
-🤝 **Connect with Me:**
+## 🤝 Connect with Me:
+
 [![LinkedIn](https://img.shields.io/badge/-Sharon-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sharon-olaitan-3b357223a/)](https://www.linkedin.com/in/sharon-olaitan-3b357223a/)
-[![Twitter](https://img.shields.io/badge/-Soul_Sharon-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/soul_sharon)
+[![Twitter](https://img.shields.io/badge/-Soul_Sharon-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/soul_sharon)](https://twitter.com/soul_sharon)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&link=https://sharon-portfolio.vercel.app/)](https://sharon-portfolio.vercel.app/)
 
+## 📊 GitHub Stats:
 
-📊 **GitHub Stats:**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&show_icons=true&count_private=true&hide=contribs)
-
 ![Your Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=dark&hide_border=true&background=000000&stroke=539BF5)
 
+## 🚀 Projects:
 
-🚀 **Projects:**
-- [UrXpace](https://www.urxpace.online): An anonymous website that allows individual send messages, media and exchange words anonymously. Each individual's information is secure and anonymous.
-- [ShopFlex](https://sharonsoul.github.io/E-commerce/): An e-commerce website that features basically all an e-commerce website should have.
-🎨 **Fun Fact:**
-- I love Video games, travelling and writing codes! - I enjoy exploring the intersection of technology and creativity. In my free time, you might find me experimenting with generative art.
+- [UrXpace](https://www.urxpace.online): An anonymous messaging platform ensuring secure and anonymous communication.
+- [ShopFlex](https://sharonsoul.github.io/E-commerce/): A feature-rich e-commerce website.
 
-💌 **Let's Collaborate:**
+## 🎨 Fun Fact:
+
+I love Video games, traveling, and writing codes! I enjoy exploring the intersection of technology and creativity. In my free time, you might find me experimenting with generative art.
+
+## 💌 Let's Collaborate:
+
 - 📧 Email: [olaitansharom1@gmail.com]
 
-🎉 Thanks for visiting! Let's create something awesome together! 🚀
+Thanks for visiting! Let's create something awesome together! 🚀
 
 ![Person Pressing Laptop](https://example.com/path/to/animated_gif.gif)
-
-
-<!--
-**SharonSoul/SharonSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
