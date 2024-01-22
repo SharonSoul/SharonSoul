@@ -5,6 +5,7 @@ Welcome to my GitHub profile. I'm dedicated to creating meaningful software solu
 ## 🚀 Quick Overview:
 
 - 💼 Working at SolveX as a Front-end developer.
+- 💼 Working at Pill4rs as a Front-end developer.
 - 🌱 Learning Next.js to enhance my skill set.
 - 🔭 Building E-Xync, an online store with a focus on User Interfaces and User Experience.
 - 💬 Let's discuss software architecture, clean code, and building scalable applications.
@@ -18,6 +19,7 @@ Welcome to my GitHub profile. I'm dedicated to creating meaningful software solu
 ## 🎓 Education:
 
 - Bachelor of Science in Computer Science, University of the People.
+- Bachelor of Arts in Philosophy, Obafemi Awolowo University.
 
 ## 🤝 Connect with Me:
 
