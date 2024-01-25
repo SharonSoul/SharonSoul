@@ -30,7 +30,7 @@ Welcome to my GitHub profile. I'm dedicated to creating meaningful software solu
 ##  GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&show_icons=true&count_private=true&hide=contribs)
-![Your Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=dark&hide_border=true&background=000000&stroke=539BF5)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SharonSoul" alt="GitHub Streak" /></a>
 
 ##  Projects:
 
