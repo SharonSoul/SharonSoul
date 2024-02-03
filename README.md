@@ -29,8 +29,9 @@ Welcome to my GitHub profile. I'm dedicated to creating meaningful software solu
 
 ##  GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&show_icons=true&count_private=true&hide=contribs)
-[![GitHub Streak](https://streak-stats.demolab.com/SharonSoul=DenverCoder1)](https://git.io/streak-stats)
+![SharonSoul's Stats](https://github-readme-stats.vercel.app/api?username=SharonSoul&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![SharonSoul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=nightowl&hide_border=false)
+![SharonSoul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharonSoul&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ##  Projects:
 
