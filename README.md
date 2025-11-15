@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="transform: perspective(1000px) rotateY(10deg); box-shadow: 10px 10px 20px rgba(0,0,0,0.3);"/>
   <h1 style="font-size: 2.5em; color: #ff2e63; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">👋 Hey There, I'm Sharon!</h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF2E63&size=20&center=true&vCenter=true&width=500&lines=Front-end+Engineer+%7C+UI/UX+Designer;Next.js+%26+Tailwind+CSS+Specialist;Co-founder+at+DesignSwyft;Exploring+ML+%26+Cybersecurity;From+Nigeria+with+💖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF2E63&size=20&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+UI/UX+Designer;Next.js+%26+Tailwind+CSS+Specialist;Co-founder+at+DesignSwyft;Exploring+ML+%26+Cybersecurity;From+Nigeria+with+💖" alt="Typing SVG" />
   </p>
 </div>
 
-Welcome to my GitHub universe! I'm a **Front-end Developer** at **SolveX** and **Pill4rs**, crafting seamless user experiences with clean, scalable code. As the **Co-founder of DesignSwyft**, I merge design and technology to deliver impactful digital solutions. I'm currently delving into **Machine Learning** and **Cybersecurity**, expanding my expertise beyond front-end development.
+Welcome to my GitHub universe! I'm a **Software Developer** at **SolveX** and **Pill4rs**, crafting seamless user experiences with clean, scalable code. As the **Co-founder of DesignSwyft**, I merge design and technology to deliver impactful digital solutions. I'm currently delving into **Machine Learning** and **Cybersecurity**, expanding my expertise beyond front-end development.
 
 ---
 
