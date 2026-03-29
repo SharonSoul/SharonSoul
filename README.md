@@ -120,7 +120,7 @@ Currently diving deeper into **Machine Learning** and **Cybersecurity**, because
 ### [Noesis](https://noesis-sage.vercel.app/)
 > Intelligent knowledge and learning platform
 
-<!-- 📸 Add screenshot here: ![Noesis Screenshot](./screenshots/noesis.png) -->
+<img src="https://res.cloudinary.com/dk2e0vvpd/image/upload/v1774790677/Screenshot_2026-03-29_142303_smxvbx.png" width="700" alt="Rolemate Screenshot" />
 
 ---
 
