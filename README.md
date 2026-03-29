@@ -1,104 +1,185 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="transform: perspective(1000px) rotateY(10deg); box-shadow: 10px 10px 20px rgba(0,0,0,0.3);"/>
-  <h1 style="font-size: 2.5em; color: #ff2e63; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">👋 Hey There, I'm Sharon!</h1>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF2E63&size=20&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+UI/UX+Designer;Next.js+%26+Tailwind+CSS+Specialist;Co-founder+at+DesignSwyft;Exploring+ML+%26+Cybersecurity;From+Nigeria+with+💖" alt="Typing SVG" />
-  </p>
-</div>
 
-Welcome to my GitHub universe! I'm a **Software Developer** at **SolveX** and **Pill4rs**, crafting seamless user experiences with clean, scalable code. As the **Co-founder of DesignSwyft**, I merge design and technology to deliver impactful digital solutions. I'm currently delving into **Machine Learning** and **Cybersecurity**, expanding my expertise beyond front-end development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sharon%20Olaitan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Co-founder&descAlignY=60&descSize=16&animation=fadeIn" />
+
+<br/>
+
+<a href="http://sharondev.framer.website/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=framer&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sharon-olaitan-3b357223a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/soul_sharon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:olaitansharom1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mobile+App+Developer+(iOS+%26+Android);UI%2FUX+Engineer+%7C+Co-founder+%40+Kynettic;Exploring+ML+%26+Cybersecurity;Building+from+Nigeria+with+%F0%9F%96%A4" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🌟 About Me
+## ✦ About Me
 
-- 🛠 **Current Roles**:
-  - Front-end Developer at [SolveX](https://solvex.com)
-  - Front-end Developer Intern at [Pill4rs](https://pill4rs.com)
-  - Co-founder at [DesignSwyft](https://www.designswyft.co)
-- 📚 **Learning**: Advancing skills in **Machine Learning** and **Cybersecurity**
-- 🌐 **Projects Built**:
-  - [DesignSwyft](https://www.designswyft.co) – A platform for stunning designs
-  - [UrXpace](https://www.urxpace.online) – An anonymous messaging platform ensuring secure and private communication
-  - [ShopFlex](https://sharonsoul.github.io/E-commerce/) – A feature-rich e-commerce website with a focus on user-friendly design
-- 🏗 **In Progress**: E-Xync – An online store prioritizing stellar UI/UX
-- 💬 **Let's Talk**: Software architecture, clean code, scalable apps, and innovative design
-- 🎮 **Fun Fact**: I’m a video game enthusiast, a travel lover, and a generative art explorer!
+I'm a **Software Engineer** and **Mobile App Developer** who builds fast, scalable, and beautiful products — from zero to shipped. I co-founded **[Kynettic](https://www.kynettic.com/)**, a design-first tech company, where I lead engineering and product. I care deeply about clean code, thoughtful UI/UX, and solutions that actually matter to real people.
+
+Currently diving deeper into **Machine Learning** and **Cybersecurity**, because good builders never stop expanding.
+
+---
+
+## 💼 Where I Work
+
+| Role | Company | Focus |
+|---|---|---|
+| Mobile App Developer | [MySkin](https://myskin.com/) / [MySkin Social](https://myskin.social/) | iOS & Android |
+| Mobile App Dev · Co-founder · Software Engineer | [Kynettic](https://www.kynettic.com/) | Full-stack + Mobile |
+| Software Engineer | [Pill4rs](https://pill4rs.com) | Web Engineering |
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### 🌐 Web Development
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 </div>
 
----
+### 📱 Mobile Development
+<div align="left">
 
-## 🎓 Education
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
-- **B.Sc. Computer Science** – University of the People
-- **B.A. Philosophy** – Obafemi Awolowo University
+</div>
+
+### 🗄 Backend & Infrastructure
+<div align="left">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+### 🎨 Design & Tools
+<div align="left">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharonSoul&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharonSoul&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharonSoul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharonSoul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SharonSoul&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SharonSoul&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharonSoul&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="background: #1a1a1a; padding: 20px; border-radius: 10px; width: 300px; transform: perspective(1000px) rotateY(5deg); box-shadow: 10px 10px 20px rgba(0,0,0,0.3);">
-    <h3>UrXpace</h3>
-    <p>An anonymous messaging platform ensuring secure and private communication.</p>
-    <a href="https://www.urxpace.online"><img src="https://img.shields.io/badge/Visit-FF2E63?style=for-the-badge&logo=web&logoColor=white" /></a>
-  </div>
-  <div style="background: #1a1a1a; padding: 20px; border-radius: 10px; width: 300px; transform: perspective(1000px) rotateY(-5deg); box-shadow: 10px 10px 20px rgba(0,0,0,0.3);">
-    <h3>ShopFlex</h3>
-    <p>A feature-rich e-commerce website with a focus on user-friendly design.</p>
-    <a href="https://sharonsoul.github.io/E-commerce/"><img src="https://img.shields.io/badge/Visit-FF2E63?style=for-the-badge&logo=web&logoColor=white" /></a>
-  </div>
-</div>
+### [Rolemate](https://rolemate.vercel.app/)
+> AI-powered roleplay and character interaction platform
+
+<!-- 📸 Add screenshot here: ![Rolemate Screenshot](./screenshots/rolemate.png) -->
 
 ---
 
-## 🌐 Connect with Me
+### [Noesis](https://noesis-sage.vercel.app/)
+> Intelligent knowledge and learning platform
+
+<!-- 📸 Add screenshot here: ![Noesis Screenshot](./screenshots/noesis.png) -->
+
+---
+
+### [CodeAura](https://codeaura-pi.vercel.app/)
+> Developer-focused tool for code exploration and sharing
+
+<!-- 📸 Add screenshot here: ![CodeAura Screenshot](./screenshots/codeaura.png) -->
+
+---
+
+### [Unburden](https://unburden.vercel.app/)
+> A mindful platform built for emotional wellness and journaling
+
+<!-- 📸 Add screenshot here: ![Unburden Screenshot](./screenshots/unburden.png) -->
+
+---
+
+### [Kynettic](https://www.kynettic.com/)
+> Design-first software company — web, mobile, and digital product studio (Co-founded)
+
+<!-- 📸 Add screenshot here: ![Kynettic Screenshot](./screenshots/kynettic.png) -->
+
+---
+
+### [MySkin](https://myskin.com/)
+> Personalized skincare mobile platform — AI-driven recommendations and community
+
+<!-- 📸 Add screenshot here: ![MySkin Screenshot](./screenshots/myskin.png) -->
+
+---
+
+## 🏗 In Progress
+
+| Project | Status |
+|---|---|
+| **Marketship** | 🔨 Active Development |
+
+---
+
+## 🎓 Education
+
+- **B.Sc. Computer Science** — University of the People
+- **B.A. Philosophy** — Obafemi Awolowo University
+
+---
+
+## 💡 Why Work With Me?
+
+- **Full-Stack + Mobile** — I ship across web and native mobile, end to end
+- **Design Sensibility** — Beautiful products aren't an accident; I make them intentional
+- **Founder Mindset** — I've co-built a company, so I understand product, deadlines, and real constraints
+- **Continuous Learner** — Currently exploring ML and Cybersecurity to stay sharp
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sharon-olaitan-3b357223a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/soul_sharon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://sharon-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:olaitansharom1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-## 💡 Why Collaborate with Me?
+**Thanks for stopping by — let's build something extraordinary. 🌟**
 
-- **Passion for Innovation**: I thrive on creating solutions that blend technology and creativity.
-- **Clean Code Advocate**: I prioritize scalable, maintainable, and efficient codebases.
-- **UI/UX Enthusiast**: My focus is on delivering intuitive and engaging user experiences.
-- **Continuous Learner**: I'm always exploring new technologies and methodologies to enhance my skill set.
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  <p><strong>Thanks for stopping by! Let's create something epic! 🌟</strong></p>
 </div>
