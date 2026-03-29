@@ -110,12 +110,6 @@ Currently diving deeper into **Machine Learning** and **Cybersecurity**, because
 
 ## 🚀 Featured Projects
 
-### [Rolemate](https://rolemate.vercel.app/)
-> AI-powered roleplay and character interaction platform
-
-<img src="https://res.cloudinary.com/dk2e0vvpd/image/upload/v1774790676/Screenshot_2026-03-29_142235_qev64n.png" width="700" alt="Rolemate Screenshot" />
-
----
 
 ### [Noesis](https://noesis-sage.vercel.app/)
 > Intelligent knowledge and learning platform
@@ -149,6 +143,13 @@ Currently diving deeper into **Machine Learning** and **Cybersecurity**, because
 > Personalized skincare mobile platform — AI-driven recommendations and community
 
 <img src="https://res.cloudinary.com/dk2e0vvpd/image/upload/v1774791152/bbc2b3a4-9bc8-46d3-b3a7-00964d47e78a.png" width="700" alt="Rolemate Screenshot" />
+
+---
+
+### [Rolemate](https://rolemate.vercel.app/)
+> AI-powered roleplay and character interaction platform
+
+<img src="https://res.cloudinary.com/dk2e0vvpd/image/upload/v1774790676/Screenshot_2026-03-29_142235_qev64n.png" width="700" alt="Rolemate Screenshot" />
 
 ---
 
