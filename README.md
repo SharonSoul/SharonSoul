@@ -19,7 +19,7 @@
 
 ## ✦ About Me
 
-I'm a **Software Engineer** and **Mobile App Developer** who builds fast, scalable, and beautiful products — from zero to shipped. I co-founded **[Kynettic](https://www.kynettic.com/)**, a design-first tech company, where I lead engineering and product. I care deeply about clean code, thoughtful UI/UX, and solutions that actually matter to real people.
+I'm a **Software Engineer** and **Mobile App Developer** who builds fast, scalable, and beautiful products — from zero to shipped. I co-founded **[Kynettic](https://www.kynettic.com/)**, a Web3 based company, where I lead engineering and product. I care deeply about clean code, thoughtful UI/UX, and solutions that actually matter to real people.
 
 Currently diving deeper into **Machine Learning** and **Cybersecurity**, because good builders never stop expanding.
 
